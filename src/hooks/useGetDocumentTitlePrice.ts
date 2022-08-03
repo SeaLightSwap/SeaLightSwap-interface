@@ -16,7 +16,7 @@ const useGetDocumentTitlePrice = () => {
       : `$${numberWithCommas(btcPriceUsd.toFixed(2))} - `
 
   useEffect(() => {
-    document.title = `${btcPriceUsdString}PolygonSwaps`
+    document.title = `${btcPriceUsdString}SealightSwap`
   }, [btcPriceUsdString])
 }
 export default useGetDocumentTitlePrice

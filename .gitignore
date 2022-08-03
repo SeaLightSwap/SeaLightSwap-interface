@@ -11,13 +11,14 @@ sftp-config.json
 
 # production
 /build
+/src/sdkv2
 
 # misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env
+.env.development
+.env.test
+.env.production
 
 /.netlify
 
@@ -37,3 +38,5 @@ cypress/screenshots
 cypress/fixtures/example.json
 
 .eslintcache
+.vercel
+

@@ -1,13 +1,13 @@
 {
   "name": "pancakeswap",
-  "timestamp": "2020-08-25T15:41:29.665Z",
+  "timestamp": "2022-03-16T15:28:55.147Z",
   "version": {
     "major": 1,
     "minor": 3,
     "patch": 1
   },
   "tags": {},
-  "logoURI": "/images/coins/WMATIC.png",
+  "logoURI": "/images/Swaps.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -49,6 +49,14 @@
       "chainId": 137,
       "decimals": 8,
       "logoURI": "/images/coins/WBTC.png"
+    },
+    {
+      "name": " Sea Light Capital Token",
+      "symbol": "SLC",
+      "address": "0x81966f1C3676D72BBF3E6ca08A8996C162976A97",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/SLC.png"
     }
   ]
 }

@@ -4,7 +4,7 @@ import { AbstractConnector } from '@web3-react/abstract-connector'
 // import { bsc, fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 import { injected, bsc } from '../connectors'
 // TODO
-export const ROUTER_ADDRESS = '0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff'
+export const ROUTER_ADDRESS = '0x4caCba24E733F5Ce108d23bBf9fE75516d929164'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -94,16 +94,16 @@ export const SUPPORTED_WALLETS: { [key: string]: WalletInfo } = {
     description: 'Easy-to-use browser extension.',
     href: null,
     color: '#E8831D'
-  }
-  // WALLET_CONNECT: {
-  //   connector: walletconnect,
-  //   name: 'WalletConnect',
-  //   iconName: 'walletConnectIcon.svg',
-  //   description: 'Connect to Trust Wallet, Rainbow Wallet and more...',
-  //   href: null,
-  //   color: '#4196FC',
-  //   mobile: true
-  // },
+  },
+  WALLET_CONNECT: {
+     connector: injected,
+     name: 'WalletConnect',
+     iconName: 'walletConnectIcon.svg',
+     description: 'Connect to Trust Wallet, Rainbow Wallet and more...',
+     href: null,
+     color: '#4196FC',
+     mobile: true
+   },
   // WALLET_LINK: {
   //   connector: walletlink,
   //   name: 'Coinbase Wallet',

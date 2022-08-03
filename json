@@ -1,0 +1,21 @@
+{
+    "name": "NAME",
+    "timestamp": "2020-08-26T16:43:29+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [],
+    "tokens": [
+        {
+            "address": "ADDRESS",
+            "chainId": 1,
+            "name": "NAME",
+            "symbol": "NAME",
+            "decimals": 2,
+            "logoURI": "https://app.uniswap.org/static/media/..."
+        }
+    ],
+    "logoURI": "https://app.uniswap.org/static/media/..."
+}

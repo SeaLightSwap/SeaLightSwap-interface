@@ -1,0 +1,185 @@
+{
+  "name": "Sealightswap Menu",
+  "logoURI": "https://raw.githubusercontent.com/nikomatt69/token-list/master/assets/sealight.png",
+  "keywords": [
+    "sushiswap",
+    "sushi",
+    "swap"
+  ],
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "name": "WMATIC Token",
+      "symbol": "WMATIC",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/WMATIC.png"
+    },
+    {
+      "address": "0x81966f1C3676D72BBF3E6ca08A8996C162976A97",
+      "chainId": 137,
+      "name": "Sea Light Capital DAO Token",
+      "symbol": "SLC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nikomatt69/token-list/master/assets/sealight.png"
+    },
+    {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "chainId": 137,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1547036627"
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "chainId": 137,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    },
+    {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    },
+    {
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "chainId": 137,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png?1574218774"
+    },
+    {
+      "address": "0xb0897686c545045aFc77CF20eC7A532E3120E0F1",
+      "chainId": 137,
+      "name": "Chain Link",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
+    },
+    {
+      "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+      "chainId": 137,
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330"
+    },
+    {
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "chainId": 137,
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
+    },
+    {
+      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "chainId": 137,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604"
+    },
+    {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "chainId": 137,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+      "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+      "chainId": 137,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826"
+    },
+    {
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "chainId": 137,
+      "name": "AAVE",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110"
+    },
+    {
+      "address": "00x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+      "chainId": 1,
+      "name": "1inch Exchange",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/small/1inch-token.png?1608803028"
+    },
+    {
+      "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+      "chainId": 137,
+      "name": "Gnosis",
+      "symbol": "GNO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+    },
+    {
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "chainId": 137,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506"
+    },
+    {
+      "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+      "chainId": 137,
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989"
+    },
+    {
+      "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
+      "chainId": 137,
+      "name": "Fantom Token",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nikomatt69/token-list/master/assets/logomark%20white.svg"
+    },
+    {
+      "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+      "chainId": 137,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+    },
+    {
+      "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+      "chainId": 137,
+      "name": "0x",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/863/small/0x.png?1547034672"
+    },
+    {
+    "address": "0x0000000000000000000000000000000000001010",
+    "chainId": 137,
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+  },
+  ],
+  "version": {
+    "major": 85,
+    "minor": 0,
+    "patch": 0
+  }
+}
