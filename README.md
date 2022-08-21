@@ -5,15 +5,11 @@ SeaLightSwap Interface
 
 An open source interface for SeaLightSwap -- a protocol for decentralized exchange of Ethereum tokens.
 
-Website: www.SealightSwap.org
+Website: https://SealightSwap.org
 
 Accessing the SealightSwap Interface
 
-To access the SeaLightSwap Interface, use an IPFS gateway link from the latest release, or visit sealightswap.org.
-
-Listing a token
-
-Please see the @uniswap/default-token-list repository.
+To access the SeaLightSwap Interface,visit sealightswap.org.
 
 Development
 
