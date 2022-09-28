@@ -24,7 +24,7 @@
       "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "/images/coins/USDT.png"
+      "logoURI": "https://github.com/umidao/tokenlist/blob/master/USDT.svg"
     },
     {
       "name": "USD Coin",
@@ -56,7 +56,40 @@
       "address": "0x81966f1C3676D72BBF3E6ca08A8996C162976A97",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "/images/coins/SLC.png"
+      "logoURI": "https://i.imgur.com/dUZbUQA.png"
+    },
+    {
+      "name": " Curve DAO Token",
+      "symbol": "CRV",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
+    },
+    {
+      "name": " Stader MaticX",
+      "symbol": "MATICX",
+      "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/MATICX.png"
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/FXS.png"
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/FRAX.png"
     }
+    
   ]
 }
