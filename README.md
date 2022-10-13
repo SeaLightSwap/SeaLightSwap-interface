@@ -7,7 +7,7 @@ SeaLightSwap Interface
 
 ## Intro
 
-[QuickSwap](https://quickswap.exchange/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Polygon](https://www.polygon.technology) (Polygon). It is fast, cheap, and allows anyone to participate.
+[SeaLightSwap](https://sealightswap.org/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Polygon](https://www.polygon.technology) (Polygon). It is fast, cheap, and allows anyone to participate.
 
 ##
 
