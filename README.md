@@ -1,29 +1,34 @@
-# Sea-Light-Swap-V2
+# Sea-Light-Swap
 Decentralized Exchange On Polygon Network
 
 SeaLightSwap Interface 
 
-An open source interface for SeaLightSwap -- a protocol for decentralized exchange of Ethereum tokens.
+![SeaLightSwap](https://sealightswap.org/images/Swaps.png)
 
-Website: https://SealightSwap.org
+## Intro
 
-Accessing the SealightSwap Interface
+[QuickSwap](https://quickswap.exchange/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Polygon](https://www.polygon.technology) (Polygon). It is fast, cheap, and allows anyone to participate.
 
-To access the SeaLightSwap Interface,visit sealightswap.org.
+##
 
-Development
+This repo is responsible for the **exchange/pool** interfaace of the AMM: [quickswap.exchange](https://quickswap.exchange/)
 
-Install Dependencies
+## Run locally
 
+Install packages
+
+```js
 yarn
-Run
+```
 
+Start application
+
+```js
 yarn start
-Configuring the environment (optional)
+```
 
-To have the interface default to a different network when a wallet is not connected:
+## Change Polygon network
 
-Make a copy of .env named .env.local
-Change REACT_APP_NETWORK_ID to "{YOUR_NETWORK_ID}"
-Change REACT_APP_NETWORK_URL to e.g. "https://{YOUR_NETWORK_ID}.infura.io/v3/{YOUR_INFURA_KEY}"
+To change the Polygon network from test net, modify the `REACT_APP_CHAIN_ID` value in `.env`.
 
+- MAIN NET `137`
