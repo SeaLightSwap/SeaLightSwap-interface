@@ -1,0 +1,30 @@
+{
+  "short_name": "SeaLightSwap",
+  "name": "SeaLightSwap",
+  "description": "Decentralized Exchnage on Polygon Network",
+  "iconPath": 
+    {
+      "src": "./images/logo-sealightswap.svg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+  "icons": [
+    {
+      "src": "./images/Swaps.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/Swaps.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
